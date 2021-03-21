@@ -1,0 +1,7 @@
+D:\UTN-FRA TECNICATURA\LABORATORIO II\Experimentos\Metodos de Extension\MetodosDeExtension\MetodosExtension\bin\Debug\MetodosExtension.exe.config
+D:\UTN-FRA TECNICATURA\LABORATORIO II\Experimentos\Metodos de Extension\MetodosDeExtension\MetodosExtension\bin\Debug\MetodosExtension.exe
+D:\UTN-FRA TECNICATURA\LABORATORIO II\Experimentos\Metodos de Extension\MetodosDeExtension\MetodosExtension\bin\Debug\MetodosExtension.pdb
+D:\UTN-FRA TECNICATURA\LABORATORIO II\Experimentos\Metodos de Extension\MetodosDeExtension\MetodosExtension\obj\Debug\MetodosExtension.csprojAssemblyReference.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\Experimentos\Metodos de Extension\MetodosDeExtension\MetodosExtension\obj\Debug\MetodosExtension.csproj.CoreCompileInputs.cache
+D:\UTN-FRA TECNICATURA\LABORATORIO II\Experimentos\Metodos de Extension\MetodosDeExtension\MetodosExtension\obj\Debug\MetodosExtension.exe
+D:\UTN-FRA TECNICATURA\LABORATORIO II\Experimentos\Metodos de Extension\MetodosDeExtension\MetodosExtension\obj\Debug\MetodosExtension.pdb
